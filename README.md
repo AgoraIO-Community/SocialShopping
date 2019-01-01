@@ -1,3 +1,7 @@
+# SocialShopping
+
+Check video demo here - https://youtu.be/2Xo-1vIA4mg
+
 ## Inspiration
 Research has shown that when people shop in groups, they shop more. However current eCommerce applications do not allow social shopping to go on, so the best people can do is share the links of the products on Whatsapp or Facebook and wait for the friend's feedback. Lack of active communication during the purchase steals the experience people get while shopping in offline stores.
 
